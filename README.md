@@ -1,3 +1,3 @@
 # FinFut
-> [INFO!] TLDR
+> [INFO:] TLDR
 > Financial data on brazillian football clubs.
