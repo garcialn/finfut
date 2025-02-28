@@ -1,2 +1,3 @@
-# finfut
-Financial data on brazillian football clubs.
+# FinFut
+> [INFO] TLDR
+> Financial data on brazillian football clubs.
